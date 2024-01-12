@@ -12,7 +12,7 @@ Our company name was Insights Consulting. It was a team of 5 members where I was
 
 Here is where we researched and identified that TD's performance in the market has been on the decline in the last two years but it still remains pretty strong.
 
-We identified and stated company's mission and vision. We performed financial analysis and found out operational expenses, market cap,etc and created a visual along with an org chart. Then we did a SWOT analysis of the bank and their competitors.
+We identified and stated company's mission and vision. We performed financial analysis and found out operational expenses, market cap,etc and created a visual along with an org chart. Then we did a SWOT analysis of the bank and their competitors. Pestel Analysis and also a Balance Scorecard.
 
 
 2. Problem Statement Identification
